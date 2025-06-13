@@ -1,13 +1,13 @@
 body{
-    color:rgb(255, 182, 160);
-    background: rgb(25, 19, 47);
+    color:rgb(51, 43, 109);
+    background: rgb(38, 30, 65);
     margin: 0px;
 }
 
 header {
-border-bottom: solid 20px rgb(157, 208, 255);
+border-bottom: solid 20px rgb(17, 19, 62);
 padding: 40px;
 front-size: 45px;
-color:rgb(168, 52, 79);
-background: rgb(255, 215, 173)
+color:rgb(255, 0, 60);
+background: rgb(3, 2, 16)
 }
