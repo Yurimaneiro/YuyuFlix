@@ -1,5 +1,5 @@
 body{
-    color:rgb(120, 110, 200);
+    color:rgb(197, 191, 241);
     background: rgb(46, 22, 125);
     margin: 20px;
     font-family: "Bitcount Grid Double", system-ui;
@@ -13,7 +13,7 @@ color:rgb(255, 0, 60);
 background: rgb(9, 4, 62)
 }
 section {
-    background: rgb(83, 95, 199);
+    background: rgb(85, 94, 177);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
