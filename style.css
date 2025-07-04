@@ -2,6 +2,7 @@ body{
     color:rgb(120, 110, 200);
     background: rgb(46, 22, 125);
     margin: 20px;
+    font-family: "Bitcount Grid Double", system-ui;
 }
 
 header {
