@@ -13,7 +13,7 @@ color:rgb(255, 0, 60);
 background: rgb(9, 4, 62)
 }
 section {
-    background: rgb(85, 94, 177);
+    background: rgb(62, 69, 131);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -22,4 +22,9 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
-}
+    h1{
+        font-size: 40px;
+    }
+    p{
+        font-size: 20px;
+    }
